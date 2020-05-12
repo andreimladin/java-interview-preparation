@@ -52,10 +52,12 @@
 * == vs equals
 
 ## Exception
+* What is an Exception?
 * Difference an Exception and an Error
 * Checked vs Unchecked
   * RuntimeException
   * Exception
+* Most common predefined exceptions: e.g. NullPointerException, FileNotFoundException
 * try-catch-finally block
 * throw new exception
 * Method signature with throw exception
