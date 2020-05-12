@@ -100,6 +100,7 @@
 
 ## Best practices & Design Patterns
 * Naming Conventions
+* SOLID principles
 * Choose composition over inheritance
 * Understand each type of relationship between classes and when to use them:
   * Inheritance 
