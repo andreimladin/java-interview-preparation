@@ -77,6 +77,7 @@
 * Inheritance
 * Abstraction
 * Polymorphism
+* overridding vs overloading
 
 ## Best practices & Design Patterns
 * Choose composition over inheritance
