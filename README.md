@@ -72,6 +72,11 @@
   * TreeMap vs HashMap
 * equals() & hashCode()
 
+## Java I/O
+* Type of Streams
+* Difference between an InputStream and a Reader
+* Difference between an OutputStream and a Writer
+
 ## Threads
 * Thread vs Runnable
 * Starting a Thread
@@ -104,3 +109,28 @@
   * Factory method
   * Strategy
 
+## SQL
+
+### Database & Table Structure
+* Define a database
+* Define a table with different column types (integer -> varchar -> blob -> clob)
+* Define a primare key
+* Define an index
+
+### Relationships
+* Define Foreign Keys
+* One-to-many
+* Many-to-one
+* Many-to-many
+
+### Normalization
+
+### Queries
+* WHERE clause
+* inner, outer, left & right join
+* order by
+* group by
+
+### Update & Delete
+
+### Drop table
