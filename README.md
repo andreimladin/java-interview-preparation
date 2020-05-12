@@ -30,8 +30,8 @@
 ### Design Patterns
 * any developer MUST know about the most of the design patterns and be able to use a few of them
 * mandatory design patterns:
-*-Singleton
-*-Builder
-*-Factory method
-*-Strategy
+  * Singleton
+  * Builder
+  * Factory method
+  * Strategy
 
