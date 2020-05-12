@@ -22,10 +22,10 @@
 ## Best practices & Design Patterns
 * Choose composition over inheritance
 * Understand each type of relationship between classes:
-** Inheritance
-** Aggregation
-** Asociation
-** Composition
+  * Inheritance 
+  * Aggregation
+  * Asociation
+  * Composition
 
 ### Design Patterns
 * any developer MUST know about the most of the design patterns and be able to use a few of them
