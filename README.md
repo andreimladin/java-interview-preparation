@@ -73,9 +73,12 @@
 * equals() & hashCode()
 
 ## Java I/O
-* Type of Streams
+* What is a Stream?
 * Difference between an InputStream and a Reader
 * Difference between an OutputStream and a Writer
+* Types of Streams
+* Paths
+* File Operations
 
 ## Threads
 * Thread vs Runnable
