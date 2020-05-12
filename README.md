@@ -72,6 +72,15 @@
   * TreeMap vs HashMap
 * equals() & hashCode()
 
+## Threads
+* Thread vs Runnable
+* Starting a Thread
+* Syncing a thread
+* synchronized blocks
+* Synchronized collections
+* What is a race condition?
+* What is a deadlock?
+
 ## OOP Principles
 * Encapsulation
 * Inheritance
