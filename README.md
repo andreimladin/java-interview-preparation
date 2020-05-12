@@ -94,6 +94,7 @@
 * overridding vs overloading
 
 ## Best practices & Design Patterns
+* Naming Conventions
 * Choose composition over inheritance
 * Understand each type of relationship between classes and when to use them:
   * Inheritance 
