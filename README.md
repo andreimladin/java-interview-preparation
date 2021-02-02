@@ -141,3 +141,26 @@
 ### Update & Delete
 
 ### Drop table
+
+# Cloud Solutions
+## Cloud Hosting
+## Containerization
+## Container orchestration
+### Service
+### Routes
+
+# Security
+## Authentication & Authorization
+## Ways of authentication
+### Form-based
+### Basic auth
+### Digest auth
+### OAuth2
+
+# Performance
+## Hashmap - what complexity does it have ? and why?
+
+# Transactions
+## ACID
+## Rollback/Commit
+
