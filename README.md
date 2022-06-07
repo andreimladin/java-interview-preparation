@@ -143,6 +143,8 @@
   * Ways of authentication
     * Form-based
     * Basic Auth
+    * Digest Auth (Nice to have)
+    * OAuth2 (Nice to have)
 
 # Senior
 
@@ -155,18 +157,11 @@
   * Cloudfoundry
 
 ## Cloud Solutions
-
-# Security
-## Authentication & Authorization
-## Ways of authentication
-### Form-based
-### Basic auth
-### Digest auth
-### OAuth2
-
-# Performance
-## Hashmap - what complexity does it have ? and why?
+* AWS
+* Azure
+* Google Cloud Platform
+* Private Cloud
 
 # Transactions
-## ACID
-## Rollback/Commit
+* ACID
+* Rollback/Commit
