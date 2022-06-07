@@ -82,6 +82,14 @@
 
 ### Drop table
 
+## Frameworks
+* Basic Knowledge about Spring
+
+## Tools
+* Git
+* Maven
+* Jenkins (Nice to know)
+
 # Higher Seniority Level
 
 ### Java I/O
@@ -127,12 +135,26 @@
 * order by
 * group by
 
-# Cloud Solutions
-## Cloud Hosting
-## Containerization
-## Container orchestration
-### Service
-### Routes
+## Frameworks & Concepts
+* IoC & DI: Spring Framework
+* Persistance (JPA)
+* Security
+  * Authentication & Authorization
+  * Ways of authentication
+    * Form-based
+    * Basic Auth
+
+# Senior
+
+## Containerisation
+* Docker 
+* Container orchestration
+  * Docker Compose
+  * Kubernetes
+  * Openshift
+  * Cloudfoundry
+
+## Cloud Solutions
 
 # Security
 ## Authentication & Authorization
@@ -148,4 +170,3 @@
 # Transactions
 ## ACID
 ## Rollback/Commit
-
