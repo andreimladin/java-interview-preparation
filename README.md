@@ -3,7 +3,7 @@
 ## Internship
 
 ### Analytical thinking
-* Logic questions
+* Logical questions
 
 ### Programming
 * Anything around this topic depending on the candidate's education
@@ -15,9 +15,9 @@
 ## Junior
 
 ### Analytical thinking
-* Logic questions
+* Logical questions
 * Algorithms
-** Sort an array
+  * Sort an array
 
 ## OOP Principles
 * Encapsulation
@@ -146,8 +146,6 @@
     * Digest Auth (Nice to have)
     * OAuth2 (Nice to have)
 
-# Senior
-
 ## Containerisation
 * Docker 
 * Container orchestration
@@ -155,6 +153,8 @@
   * Kubernetes
   * Openshift
   * Cloudfoundry
+
+# Senior
 
 ## Cloud Solutions
 * AWS
