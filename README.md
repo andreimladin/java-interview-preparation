@@ -35,8 +35,8 @@
 
 ### Strings
 * what is a String in java
+* immutability (== vs equals)
 * String pool
-* == vs equals
 
 ### Exceptions
 * What is an Exception?
